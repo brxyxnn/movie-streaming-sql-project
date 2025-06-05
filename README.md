@@ -47,3 +47,10 @@ This file includes sample queries that demonstrate database functionality such a
 NOTE
 ===========================
 - All scripts are self-contained and should be run on a clean database.
+
+## Tech Stack
+===========================
+- MySQL
+- SQL (Joins, Subqueries, Aggregations)
+- ER Modeling
+- VS Code, MySQL Workbench
