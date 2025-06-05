@@ -2,7 +2,6 @@ README - Team 7 Movie Streaming Database
 
 This file provides step-by-step instructions for loading and running the Team 7 Movie Streaming Database project for a streaming platform.
 
-===========================
 FILE EXECUTION ORDER
 ===========================
 
@@ -56,7 +55,6 @@ NOTE
 - VS Code, MySQL Workbench
 
 ## ER Diagram
-===========================
 The following diagram shows the full database schema:
 
 ![ER Diagram](ER_Diagram_MovieDB.png)
