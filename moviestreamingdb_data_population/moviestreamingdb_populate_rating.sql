@@ -1,0 +1,26 @@
+-- MySQL INSERT statements for the 'rating' table
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (1, 1, 67, 5);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (2, 1, 87, 8);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (3, 1, 102, 8);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (4, 1, 171, 5);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (5, 1, 156, 8);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (6, 2, 45, 7);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (7, 2, 39, 6);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (8, 2, 133, 7);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (9, 2, 244, 6);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (10, 2, 8, 9);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (11, 3, 3, 8);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (12, 3, 146, 5);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (13, 3, 196, 7);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (14, 3, 250, 6);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (15, 3, 222, 9);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (16, 4, 23, 8);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (17, 4, 44, 9);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (18, 4, 10, 6);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (19, 4, 164, 7);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (20, 4, 187, 5);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (21, 5, 91, 8);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (22, 5, 240, 9);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (23, 5, 79, 6);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (24, 5, 88, 7);
+INSERT INTO rating (RatingID, UserID, MovieID, Score) VALUES (25, 5, 13, 8);

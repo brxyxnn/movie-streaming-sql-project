@@ -1,0 +1,26 @@
+-- MySQL INSERT statements for the 'watchhistory' table
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (1, 1, 67);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (2, 1, 87);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (3, 1, 102);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (4, 1, 171);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (5, 1, 156);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (6, 2, 45);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (7, 2, 39);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (8, 2, 133);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (9, 2, 244);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (10, 2, 8);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (11, 3, 3);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (12, 3, 146);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (13, 3, 196);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (14, 3, 250);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (15, 3, 222);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (16, 4, 23);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (17, 4, 44);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (18, 4, 10);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (19, 4, 164);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (20, 4, 187);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (21, 5, 91);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (22, 5, 240);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (23, 5, 79);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (24, 5, 88);
+INSERT INTO watchhistory (HistoryID, UserID, MovieID) VALUES (25, 5, 13);
