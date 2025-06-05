@@ -58,3 +58,14 @@ NOTE
 The following diagram shows the full database schema:
 
 ![ER Diagram](ER_Diagram_MovieDB.png)
+
+## My Role
+
+This project was completed independently as part of a university course. I was responsible for:
+
+- Designing and normalizing the full relational schema
+- Implementing all table creation scripts and foreign key constraints
+- Writing and testing all SQL data population and query scripts
+- Reverse-engineering the ER diagram from MySQL Workbench
+- Documenting the system via README and organizing the GitHub repo
+
