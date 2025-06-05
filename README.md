@@ -54,3 +54,9 @@ NOTE
 - SQL (Joins, Subqueries, Aggregations)
 - ER Modeling
 - VS Code, MySQL Workbench
+
+## ER Diagram
+===========================
+The following diagram shows the full database schema:
+
+![ER Diagram](ER_Diagram_MovieDB.png)
